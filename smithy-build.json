@@ -1,8 +1,0 @@
-{
-    "version": "1.0",
-    "plugins": {
-        "openapi": {
-            "service": "timhatdiehandandermaus.v1#TimHatDieHandAnDerMaus"
-        }
-    }
-}
